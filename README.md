@@ -17,8 +17,11 @@ What you need in order to perform this piece:
 Hardware: 
 
 1). a computer that runs macOS High Sierra 10.13.6 and has Bluetooth 4.2(or higher) installed. 
+
 2). a quad multi-channel speaker system and a Bose “SoundWear” or similar type of speaker. The channel setting follows the file “custom           4.1 diagram.jpg” contained in the archive folder.
+
 3). a professional audio interface that supports discrete 4 channels outputs (For example, Roland OCTA-CAPTURE)
+
 4). a projector (or use the computer screen)
 
 Software: 
@@ -45,15 +48,3 @@ sound is in the session view of the Ableton file “Master Degree Terminal Proje
 6). Fullscreen the video window, start to play the piece.   
 
 ===================================
-
-
-
-
-
-
-
-
-
-
-
-
