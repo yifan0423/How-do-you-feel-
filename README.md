@@ -1,3 +1,5 @@
+Youtube link: https://youtu.be/rYKpWxAnATg
+
 Intro:
 How Do You Feel? -- for custom 4.1 digital audio multichannel format is a fixed media composition with video for SoundWear and quad audio multichannel intermedia listening environment. It is an experimental intermedia composition, focusing on sounds’ 3-dimensional spatialization design. The sound design is completed in Symbolic Sound Kyma system. The composition uses Ableton Live for live playback. 
 
